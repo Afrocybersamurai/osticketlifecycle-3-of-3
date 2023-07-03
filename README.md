@@ -21,6 +21,9 @@ We will essentialy show here how we can work in osTicket system as a profesional
 - Windows 10</b> (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
+<h2>Lifecycle Stages</h2>
+<p align="left"> Previous Part 2 of 3: <a href="https://github.com/Afrocybersamurai/osticket-prereqs">osTicket: Post-Installation Configuration</a></p>
+<br />
 
 - Intake
 - Assignment and Communication
