@@ -38,10 +38,7 @@ We will essentialy show here how we can work in osTicket system as a profesional
 <h2>Stage 1: Intake</h2>
 <p> 
 Go to portal, sign in and open a new ticket as a customer. For testing purposes the url is: [osTicket Link](http://localhost/osTicket/)
-</p> 
-<img src="https://i.imgur.com/VSfQqeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
 This stage is when a new ticket is created. 
   
 Two common ways in which tickets can be submitted is through a form – such as the one shown here – or by emailing an email address that is designated for tickets. In this form, the user/customer provides their contact information, the topic/issue, and details about the issue.
