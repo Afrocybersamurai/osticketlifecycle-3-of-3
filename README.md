@@ -29,6 +29,12 @@ We will essentialy show here how we can work in osTicket system as a profesional
 <h2>Lifecycle Stages</h2>
 
 <p> 
+
+<p>
+
+
+
+
 <h2>Stage 1: Intake</h2>
 <p> 
 Go to portal, sign in and open a new ticket as a customer. For testing purposes the url is: [osTicket Link](http://localhost/osTicket/)
@@ -40,29 +46,8 @@ This stage is when a new ticket is created.
   
 Two common ways in which tickets can be submitted is through a form – such as the one shown here – or by emailing an email address that is designated for tickets. In this form, the user/customer provides their contact information, the topic/issue, and details about the issue.
 </p>
-<p>
-<h2>Stage 2: Assignment</h2>
-<p> 
 
-  Once the ticket has been submitted, the ticket can be assigned to an IT professional. in our case, to properly handled the ticket, information regarding the level of severity has been changed. The Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator.
-</p> 
-<img src="https://i.imgur.com/Zkvxl0J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/f5rjylY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<h2>Stage 3: Working the Issue</h2>
-<p> 
-Now that the ticket has been assigned to the appropriate department and people, the IT staff can work on finding a solution to the issue. Each time a change is made to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has already done and facilitates communication between everyone involved.
-</p> 
-<img src="https://i.imgur.com/6bJfE6s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
-<h2>Stage 4: Resolution</h2>
-<p> 
-When the issue has been resolved, the ticket can be closed. Now the ticket will move from the Open section to the Closed section. As an IT professionals, it is a good pratice to browse closed tickets since they can be a "big library"  to find solutions to open tickets.
-</p> 
-<img src="https://i.imgur.com/6bJfE6s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
+
 <p>
 <p align="center"> 
 <img src="https://static.wixstatic.com/media/2ebf04_a237d5c3c90c4893b61f86c895b7bec4~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
@@ -138,6 +123,15 @@ Step 8: Select the first ticket that was created to start working it.
 </p>
 <br />
 
+<h2>Stage 2: Assignment</h2>
+<p> 
+
+  Once the ticket has been submitted, the ticket can be assigned to an IT professional. in our case, to properly handled the ticket, information regarding the level of severity has been changed. The Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator.
+</p> 
+<img src="https://i.imgur.com/Zkvxl0J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f5rjylY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <p>
 <p align="center"> 
 <img src="https://static.wixstatic.com/media/2ebf04_cdf4ed8d8c79433b9b95afa33201970d~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
@@ -165,6 +159,19 @@ Step 11: Set the service-level agreement (SLA) and make a note of the reason for
 </p>
 <br />
 
+<h2>Resolutions by Priority</h2>
+- 1.Business Critical Outage
+This priority should be set to "Emergency"
+
+- 2. Personal Computer Issues
+This priority can be "High"
+
+- 3. Equipement Request
+Normal Priority
+
+- 4. Password Reset
+Least Priority
+
 <p>
 <p align="center"> 
 <img src="https://static.wixstatic.com/media/2ebf04_63dfa80d66884b6fad45e5828ebab5fc~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
@@ -178,6 +185,14 @@ Step 12: Assign the ticket to the appropriate department and leave a note explai
 <p align="center"> 
 <img src="https://static.wixstatic.com/media/2ebf04_556c6729d50c4785b328fcca75d803a5~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
+
+<h2>Stage 3: Working the Issue</h2>
+<p> 
+Now that the ticket has been assigned to the appropriate department and people, the IT staff can work on finding a solution to the issue. Each time a change is made to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has already done and facilitates communication between everyone involved.
+</p> 
+<img src="https://i.imgur.com/6bJfE6s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <p>
 Step 13: Leave a reply outlining the course of action taken to solve the ticket, change the ticket status to "Resolved," and click "Post Reply."
 </p>
@@ -202,6 +217,17 @@ Step 14: Apply the same process to resolve subsequent support tickets, such as T
 <p align="center"> 
 <img src="https://static.wixstatic.com/media/2ebf04_d2e046dd88124f308a7deb0315ea9526~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
+
+
+</p>
+<h2>Stage 4: Resolution</h2>
+<p> 
+When the issue has been resolved, the ticket can be closed. Now the ticket will move from the Open section to the Closed section. As an IT professionals, it is a good pratice to browse closed tickets since they can be a "big library"  to find solutions to open tickets.
+</p> 
+<img src="https://i.imgur.com/6bJfE6s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+
 <p>
 Step 15: Provided that all the steps were executed accurately, the support ticket dashboard will be cleared of all support tickets.
 </p>
