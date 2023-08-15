@@ -125,11 +125,7 @@ Step 8: Select the first ticket that was created to start working it.
 
   Once the ticket has been submitted, the ticket can be assigned to an IT professional. in our case, to properly handled the ticket, information regarding the level of severity has been changed. The Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator.
 </p> 
-<img src="https://i.imgur.com/Zkvxl0J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/f5rjylY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<p>
 <p align="center"> 
 <img src="https://static.wixstatic.com/media/2ebf04_cdf4ed8d8c79433b9b95afa33201970d~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
@@ -186,9 +182,6 @@ Step 12: Assign the ticket to the appropriate department and leave a note explai
 <h2>Stage 3: Working the Issue</h2>
 <p> 
 Now that the ticket has been assigned to the appropriate department and people, the IT staff can work on finding a solution to the issue. Each time a change is made to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has already done and facilitates communication between everyone involved.
-</p> 
-<img src="https://i.imgur.com/6bJfE6s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <p>
 Step 13: Leave a reply outlining the course of action taken to solve the ticket, change the ticket status to "Resolved," and click "Post Reply."
@@ -220,10 +213,7 @@ Step 14: Apply the same process to resolve subsequent support tickets, such as T
 <h2>Stage 4: Resolution</h2>
 <p> 
 When the issue has been resolved, the ticket can be closed. Now the ticket will move from the Open section to the Closed section. As an IT professionals, it is a good pratice to browse closed tickets since they can be a "big library"  to find solutions to open tickets.
-</p> 
-<img src="https://i.imgur.com/6bJfE6s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
+
 
 <p>
 Step 15: Provided that all the steps were executed accurately, the support ticket dashboard will be cleared of all support tickets.
