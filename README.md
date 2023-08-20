@@ -27,7 +27,8 @@ We will show here how we can work in osTicket system as a profesional helpdesk r
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
+<h2></h2>
+<b>Audit Scope and Goals.</b>
 <p> 
 
 <p>
